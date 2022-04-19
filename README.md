@@ -1,6 +1,6 @@
 ## Bem Vindo, sou Joelson, e esse é meu Github 👊
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+
 
 ![JoelsonRodrigues90 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelsonRodrigues90&show_icons=true&theme=radical)
 
