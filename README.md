@@ -1,6 +1,6 @@
 ## Bem-vindo, eu sou Joelson Rodrigues 👊
 
-Desenvolvedor Full Stack com foco em aplicações web, integrações corporativas e automação de processos industriais. Atuo principalmente no desenvolvimento de APIs, sistemas escaláveis e integrações em tempo real com ERP Senior, utilizando tecnologias modernas no ecossistema JavaScript/TypeScript e .NET.
+Desenvolvedor Full Stack com foco em aplicações web, integrações corporativas e automação de processos industriais. Atuo principalmente no desenvolvimento de APIs, sistemas escaláveis e integrações em tempo real com ERP Senior, utilizando tecnologias modernas no ecossistema JavaScript/TypeScript.
 
 ## Tecnologias que utilizo no dia a dia
 
@@ -13,7 +13,6 @@ Desenvolvedor Full Stack com foco em aplicações web, integrações corporativa
     <img alt="Next.Js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
     <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
     <img alt="React.Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img alt="SQLServer" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div><br>
 
