@@ -1,12 +1,5 @@
 ## Bem Vindo, sou Joelson, e esse é meu Github 👊
 
-
-
-![JoelsonRodrigues90 GitHub stats](https://github-readme-stats.vercel.app/api?username=JoelsonRodrigues90&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelsonRodrigues90&langs_count=8)](https://github.com/JoelsonRodrigues90/github-readme-stats)
-
 ## Tecnologias que uso no meu dia a dia
 
 
